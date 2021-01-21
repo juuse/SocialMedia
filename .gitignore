@@ -4,6 +4,7 @@ target/
 RemoveSystemsTempFiles/
 .settings
 /Servers/
+/node_modules/
 
 
 /.recommenders/
