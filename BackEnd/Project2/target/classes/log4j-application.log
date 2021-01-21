@@ -1,0 +1,63 @@
+2021-01-17 15:34:33 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-17 15:34:34 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-17 15:34:36 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-17 15:34:38 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-17 15:34:40 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-17 15:35:00 INFO  LogUtil:26 - Attempting to run class com.controllerpack.LoginController: login
+2021-01-17 15:35:00 INFO  LogUtil:40 - Attempting to run class com.servicepack.UserServiceImpl: getUserByCredentials
+2021-01-17 15:35:01 INFO  LogUtil:33 - Attempting to run class com.repo.UserRepoImpl: selectByCredentials
+2021-01-17 15:35:02 INFO  LogUtil:55 - class com.repo.UserRepoImpl: selectByCredentials ran successfully
+2021-01-17 15:35:02 INFO  LogUtil:62 - class com.servicepack.UserServiceImpl: getUserByCredentials ran successfully
+2021-01-17 15:35:02 INFO  LogUtil:48 - class com.controllerpack.LoginController: login ran successfully
+2021-01-17 15:39:08 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-17 15:39:09 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-17 15:39:10 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-17 15:39:13 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-17 15:39:16 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-17 15:46:20 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-17 15:46:21 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-17 15:46:22 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-17 15:46:24 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-17 15:46:28 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-18 19:50:04 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-18 19:50:05 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-18 19:50:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-18 19:50:07 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-18 19:50:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-18 19:50:15 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-18 19:50:16 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-18 19:50:17 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-18 19:50:18 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-18 19:50:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-18 19:50:34 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-18 19:50:35 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-18 19:50:36 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-18 19:50:37 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-18 19:50:38 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-18 19:52:51 INFO  LogUtil:26 - Attempting to run class com.controllerpack.LoginController: login
+2021-01-18 19:52:51 INFO  LogUtil:40 - Attempting to run class com.servicepack.UserServiceImpl: getUserByCredentials
+2021-01-18 19:52:52 INFO  LogUtil:33 - Attempting to run class com.repo.UserRepoImpl: selectByCredentials
+2021-01-18 19:52:55 INFO  LogUtil:55 - class com.repo.UserRepoImpl: selectByCredentials ran successfully
+2021-01-18 19:52:55 INFO  LogUtil:62 - class com.servicepack.UserServiceImpl: getUserByCredentials ran successfully
+2021-01-18 19:52:55 INFO  LogUtil:48 - class com.controllerpack.LoginController: login ran successfully
+2021-01-18 19:52:55 INFO  LogUtil:26 - Attempting to run class com.controllerpack.PostController: getAllPosts
+2021-01-18 19:52:55 INFO  LogUtil:40 - Attempting to run class com.servicepack.PostsServiceImpl: getAllPosts
+2021-01-18 19:52:56 INFO  LogUtil:33 - Attempting to run class com.repo.PostsRepoImpl: selectAll
+2021-01-18 19:52:56 INFO  LogUtil:55 - class com.repo.PostsRepoImpl: selectAll ran successfully
+2021-01-18 19:52:56 INFO  LogUtil:62 - class com.servicepack.PostsServiceImpl: getAllPosts ran successfully
+2021-01-18 19:52:56 INFO  LogUtil:40 - Attempting to run class com.servicepack.PostsServiceImpl: getAllPosts
+2021-01-18 19:52:57 INFO  LogUtil:33 - Attempting to run class com.repo.PostsRepoImpl: selectAll
+2021-01-18 19:52:58 INFO  LogUtil:55 - class com.repo.PostsRepoImpl: selectAll ran successfully
+2021-01-18 19:52:58 INFO  LogUtil:62 - class com.servicepack.PostsServiceImpl: getAllPosts ran successfully
+2021-01-18 19:52:58 INFO  LogUtil:48 - class com.controllerpack.PostController: getAllPosts ran successfully
+2021-01-18 19:53:45 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-01-18 19:53:45 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-18 19:53:46 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-01-18 19:53:47 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2021-01-18 19:53:48 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-18 19:53:49 INFO  LogUtil:33 - Attempting to run class com.repo.PostsRepoImpl: selectAll
+2021-01-18 19:53:50 INFO  LogUtil:55 - class com.repo.PostsRepoImpl: selectAll ran successfully
+2021-01-18 19:53:51 INFO  LogUtil:33 - Attempting to run class com.repo.PostsRepoImpl: selectByAuthor
+2021-01-18 19:53:51 INFO  LogUtil:55 - class com.repo.PostsRepoImpl: selectByAuthor ran successfully
+2021-01-18 19:53:52 INFO  LogUtil:33 - Attempting to run class com.repo.PostsRepoImpl: selectById
+2021-01-18 19:53:53 INFO  LogUtil:55 - class com.repo.PostsRepoImpl: selectById ran successfully
